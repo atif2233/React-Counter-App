@@ -34,8 +34,6 @@ Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to see the app in action.
 
-Screenshot
- (Include a screenshot of your app running, if possible)
 
 Future Enhancements
 Add local storage to persist the counter value between sessions.
